@@ -1,0 +1,13 @@
+C:\Users\alexa_000\csharp\Somasimples\bin\Debug\netcoreapp3.1\Somasimples.exe
+C:\Users\alexa_000\csharp\Somasimples\bin\Debug\netcoreapp3.1\Somasimples.deps.json
+C:\Users\alexa_000\csharp\Somasimples\bin\Debug\netcoreapp3.1\Somasimples.runtimeconfig.json
+C:\Users\alexa_000\csharp\Somasimples\bin\Debug\netcoreapp3.1\Somasimples.runtimeconfig.dev.json
+C:\Users\alexa_000\csharp\Somasimples\bin\Debug\netcoreapp3.1\Somasimples.dll
+C:\Users\alexa_000\csharp\Somasimples\bin\Debug\netcoreapp3.1\Somasimples.pdb
+C:\Users\alexa_000\csharp\Somasimples\obj\Debug\netcoreapp3.1\Somasimples.csprojAssemblyReference.cache
+C:\Users\alexa_000\csharp\Somasimples\obj\Debug\netcoreapp3.1\Somasimples.AssemblyInfoInputs.cache
+C:\Users\alexa_000\csharp\Somasimples\obj\Debug\netcoreapp3.1\Somasimples.AssemblyInfo.cs
+C:\Users\alexa_000\csharp\Somasimples\obj\Debug\netcoreapp3.1\Somasimples.csproj.CoreCompileInputs.cache
+C:\Users\alexa_000\csharp\Somasimples\obj\Debug\netcoreapp3.1\Somasimples.dll
+C:\Users\alexa_000\csharp\Somasimples\obj\Debug\netcoreapp3.1\Somasimples.pdb
+C:\Users\alexa_000\csharp\Somasimples\obj\Debug\netcoreapp3.1\Somasimples.genruntimeconfig.cache
